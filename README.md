@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="280" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/about_me.gif" alt="Coding Animation" />
+  <img width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" />
 </p>
 
 ---
